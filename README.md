@@ -58,7 +58,7 @@ Applied specific formatting techniques such as conditional formatting, data bars
 Focused on clean layout, intuitive visuals, and interactive elements to ensure ease of use for both technical and non-technical users.
 
 ## About Me
-I'm passionate about data analysis and visualization, with a focus on delivering actionable insights through intuitive dashboards. Connect with me on https://www.linkedin.com/in/rishabh-jain-b6b420286/ to collaborate or discuss more projects.
+I'm passionate about data analysis and visualization, with a focus on delivering actionable insights through intuitive dashboards. Connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-jain-b6b420286/) to collaborate or discuss more projects.
 
 ## License
 This project is open-source and available for educational and non-commercial purposes. Feel free to fork and modify the repository as needed.
